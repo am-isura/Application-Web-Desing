@@ -12,3 +12,5 @@ Algunos de los comandos que se utilizan en git:
 4. git push
 5. git branch
 > *git branch -d <nameBranch> *git branch -D <nameBranch>
+6. git reset 3050fc0
+> git reset --hard c0d30f3
